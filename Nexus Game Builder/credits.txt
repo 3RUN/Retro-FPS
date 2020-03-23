@@ -1,0 +1,11 @@
+Credits:
+
+- OldSchool FPS Project Template By : 3run
+- Nexus Game Builder : OldSchool FPS Edition - By : Brian Pressley (Evo) (Evoeon)
+- Custom TEXTBOX Feature : By : Txesmi
+
+- Explosion sprite created by Luis Zuno (ansimuz.itch.io)
+- NPC sprites by elihaun (elihaun.itch.io) (animated by me)
+- bullet impact sprites made by ZappedCow (zappedcow.itch.io)
+- props sprites made by Kenney Vleugels for Kenney (www.kenney.nl)
+- Music : Retro Audio Tracks are cc0 Public Domain

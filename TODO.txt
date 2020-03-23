@@ -1,0 +1,8 @@
+- when rocketlauncher guy is too close for shooting rockets (in explo range), he will switch to chaingun ! 
+- add weapon change with mouse wheel
+- add DEAF flag for enemies (deaf enemy shouldn't get triggered by other alerted NPCs and shouldn't move until he stops the player directly)
+- trigger near by npcs with shooting sounds;
+- add skycube back into the game/level structure/level init;
+- set default fog start-end settings for each level;
+- add best time into the level, if player beats default best time;
+- look through the code for bugs.
